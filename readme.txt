@@ -23,12 +23,12 @@ TestDataCollector_EiganFace.py: This file is the test application. It will take 
 times each time increamenting the number of components. Each time an Eigen face recogniser will be trained and
 predicted on the input image. After the for loop is compleated, ID and confidence will be ploted.
 
-TestDataCollector_EiganFace.py: This file is the test application. It will take in an image the dataset will be loaded. A loop will run 200
+TestDataCollector_FisherFace.py: This file is the test application. It will take in an image the dataset will be loaded. A loop will run 200
 
 times each time increamenting the number of components. Each time an Fisher face recogniser will be trained and
 predicted on the input image. After the for loop is compleated, ID and confidence will be ploted.
 
-TestDataCollector_EiganFace.py: This file is the test application. It will take in an image the dataset will be loaded. A loop will run 54, 13, 50 times.
+TestDataCollector_LBPH.py: This file is the test application. It will take in an image the dataset will be loaded. A loop will run 54, 13, 50 times.
 
 each time increamenting the Parameters. Each time an LBPH face recogniser will be trained and predicted on the input image.
 After the for loop is compleated, ID and confidence will be ploted.
